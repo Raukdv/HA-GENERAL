@@ -1,4 +1,4 @@
-# Bot for extrac
+# Bot for extract Leads to a Home Advisor account
 
 This Python script allows you to automatically extract Leads to a Home Advisor account.
 
