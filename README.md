@@ -7,7 +7,8 @@ This Python script allows you to automatically extract Leads to a Home Advisor a
 * [GIT for Windows](https://github.com/git-for-windows/git/releases/latest) - Make sure to select: Add to system `$PATH` at the end of the installation.
 * [Python 3.7.0](https://www.python.org/downloads/release/python-374/) - Make sure to select: Add to system `$PATH`.
 * [Python 3+](https://www.python.org/downloads/) - Make sure to select: Add to system `$PATH`.
-
+* [Chrome]- Make sure to select a version < 95 for proper work but you can test for higher version.
+* [Driver](https://chromedriver.chromium.org/downloads) - Make sure to download and let into the root folder.
 ## Installing the script
 1. Option from git clone: Run the following command on CMD-DOS:
 ```shell
