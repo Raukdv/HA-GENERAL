@@ -8,9 +8,17 @@ This Python script allows you to automatically extract Leads to a Home Advisor a
 * [Python 3.7.0](https://www.python.org/downloads/release/python-374/) - Make sure to select: Add to system `$PATH`.
 
 ## Installing the script
-1. Run the following command on CMD-DOS:
+1. Option from git clone: Run the following command on CMD-DOS:
 ```shell
-pip install -e git@github.com:Raukdv/HA-GENERAL.git#egg=bot
+git clone https://github.com/Raukdv/HA-GENERAL.git
+```
+2. Option from github: Download the full folder in repo and unzip:
+```
+cd foldername
+```
+3. Run the next command in root level
+```
+python setup.py install
 ```
 
 ## Running the script
