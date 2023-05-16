@@ -45,7 +45,7 @@ HA_PASSWORD=""
 HA_AIRTABLE="https://api.airtable.com/v0/API-ID/TABLE-NAME"
 HA_AIRTABLE_KEY="API-KEY"
 ```
-## Additional values
+## Additional values (NOT REQUIRED IN THE .env)
 ```
 STATUS_PROCESSING=1
 STATUS_APPROVED=2
